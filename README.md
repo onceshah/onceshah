@@ -1,8 +1,16 @@
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FB923C&vCenter=true&width=300&lines=Howdy!!" alt="Howdy!!" />
+  <img src="https://github.com/onceshah/onceshah/raw/refs/heads/main/assets/github%20profile.gif" width="100%" alt="Profile">
 </p>
 
-<h2>I'm Vansh Shah.</h2>
+<div align="center">
+
+  <p style="margin: 0;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2500&pause=1000&color=FB923C&center=true&vCenter=true&width=500&height=50&lines=Howdy!!" alt="Howdy!!">
+  </p>
+
+  <h2 style="margin: -5px 0 0 0;">I'm Vansh Shah.</h2>
+
+</div>
 
 ---
 
